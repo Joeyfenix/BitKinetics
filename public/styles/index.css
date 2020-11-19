@@ -259,7 +259,7 @@
         }
         .headerpara{
         font-family: 'Playfair Display', serif;
-        font-size: 1.5em;   
+        font-size: 1em;   
 
     }
         .headertext{
@@ -280,20 +280,38 @@
             width: 600px;
             object-fit: cover;
         } */
+        .textconttext1{
+            font-size: 1.5em;
+        }
+        .textconttext2{
+            font-size: 1.5em;
+        }
         .section3{
             padding-top: 30px;
+        }
+        .section3text{
+            font-size: 1.5em;
         }
         .section3header{
             margin-top: 100px;
             text-align: center;
         }
+        .textcont2{
+            height: fit-content;
+        }
         .section4orange{
         position: absolute;
         right: 0;
         margin-top: 800px;
-    }
+        }
+        .section4text{
+            font-size: 1.5em;
+        }
         .section4img{
             width: 75%;
+        }
+        .section5text{
+            font-size: 1.5em;
         }
         .section5header{
             margin-left: 0;
