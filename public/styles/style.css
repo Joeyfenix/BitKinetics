@@ -23,7 +23,15 @@
     .navbar-custom { 
             background-color: #e25822; 
         } 
-
+        .navtext{
+        font-weight: 700;
+        font-size: 1.5em;
+        color: black;
+    }
+    .compname{
+        font-size: 34px;
+        font-weight: 700;
+    }
 
     .rightel{
         display: flex;

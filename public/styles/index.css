@@ -29,6 +29,10 @@
     .navbar-custom { 
             background-color: #e25822; 
         } 
+    .compname{
+        font-size: 34px;
+        font-weight: 700;
+    }
     /* HOMESCREEN */
 
     .homescreen{
@@ -53,7 +57,6 @@
         z-index: -1;
     }
     .headertext{
-    
         letter-spacing: 0.3rem;
         font-size: 6em;
         color: #e25822;
@@ -153,7 +156,9 @@
     .section3textcont{
         padding: 20px;
     }
-    
+    .section3text{
+        font-size: 20px;
+    }
     
     /* SECTION4 */
     
@@ -192,7 +197,9 @@
         padding: 20px;
         margin-left: 20px;
     }
-    
+    .section4text{
+        font-size: 20px;
+    }
     
     /* Section5 */
 
@@ -227,7 +234,9 @@
     .section5textcont{
         padding: 20px;
     }
-    
+    .section5text{
+        font-size: 20px;
+    }
 
     /* FOOTER */
 
@@ -254,8 +263,17 @@
     }
 
 
+    /* BOTTOM */
 
-
+    .bottom{
+        padding: 20px;
+       
+    }
+    .bottom{
+        color: #e25822;
+         background-color: #10316b;
+      
+    }
 
 
     @media only screen and (max-width: 600px) { 
